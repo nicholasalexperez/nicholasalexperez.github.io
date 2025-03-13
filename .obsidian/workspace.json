@@ -54,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -168,9 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27089add0a867fe3",
+  "active": "18de176cd0f2608d",
   "lastOpenFiles": [
-    "another-page.md",
-    "index.md"
+    "docs/SUPPORT.md",
+    "docs/CONTRIBUTING.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "thumbnail.png",
+    "README.md",
+    "index.md",
+    "another-page.md"
   ]
 }
