@@ -1,6 +1,6 @@
 title: Nicholas Perez
 description: Description
-show_downloads: true
+show_downloads: false
 show_hyperlinks: true
 google_analytics:
 theme: jekyll-theme-dinky
